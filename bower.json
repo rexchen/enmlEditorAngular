@@ -1,0 +1,10 @@
+{
+    "name": "EnmlEditor",
+    "version": "1.0.0",
+    "dependencies": {
+        "angular": "1.0.8",
+        "angular-ui-ace": "*",
+        "angular-resource": "1.0.8"
+        "bootstrap": "*"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "API_CONSUMER_KEY": "ezplan-8289",
+    "API_CONSUMER_SECRET": "14e29645bc43ac7a",
+    "SANDBOX": false,
+    "NOTEBOOK_NAME": "ENML Editor",
+    "PRODUCTION_URL": "http://enml.herokuapp.com/"
+}
